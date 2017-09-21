@@ -1,0 +1,10 @@
+C:\source\codeworks\hwapp\bin\Debug\netcoreapp2.0\hwapp.deps.json
+C:\source\codeworks\hwapp\bin\Debug\netcoreapp2.0\hwapp.runtimeconfig.json
+C:\source\codeworks\hwapp\bin\Debug\netcoreapp2.0\hwapp.runtimeconfig.dev.json
+C:\source\codeworks\hwapp\bin\Debug\netcoreapp2.0\hwapp.dll
+C:\source\codeworks\hwapp\bin\Debug\netcoreapp2.0\hwapp.pdb
+C:\source\codeworks\hwapp\obj\Debug\netcoreapp2.0\hwapp.csproj.CoreCompileInputs.cache
+C:\source\codeworks\hwapp\obj\Debug\netcoreapp2.0\hwapp.AssemblyInfoInputs.cache
+C:\source\codeworks\hwapp\obj\Debug\netcoreapp2.0\hwapp.AssemblyInfo.cs
+C:\source\codeworks\hwapp\obj\Debug\netcoreapp2.0\hwapp.dll
+C:\source\codeworks\hwapp\obj\Debug\netcoreapp2.0\hwapp.pdb
